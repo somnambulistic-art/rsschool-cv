@@ -7,7 +7,6 @@
 * [**GitHub**](https://github.com/somnambulistic-art "GitHub profile")
 * [**LinkedIn**](https://www.linkedin.com/in/artemy-ilchibekov-603473257/ "LinkedIn profile")
 
-
 ## About me
 I'm 31 years old, currently working as a freelancer.
 Previously, I worked as a system administrator.
